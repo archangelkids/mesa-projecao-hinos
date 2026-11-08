@@ -1,0 +1,22 @@
+PUBLICAR NO NETLIFY
+
+1. Entre em https://app.netlify.com e faça login.
+2. Clique em Add new site > Import an existing project.
+3. Conecte o GitHub ou envie esta pasta para um repositório.
+4. O Netlify lerá o arquivo netlify.toml automaticamente.
+5. Em Site configuration > Environment variables, crie:
+
+   YOUVERSION_KEY = sua chave da YouVersion
+
+6. Publique o site. O endereço gratuito ficará parecido com:
+   https://nome-do-site.netlify.app
+
+IMPORTANTE
+
+Não coloque a chave no arquivo público. A função netlify/functions/youversion.mjs
+usa a variável YOUVERSION_KEY do Netlify para consultar a NVI.
+
+Para testar a NVI, abra o site publicado com internet. Os hinos e a BPM local
+continuam disponíveis no pacote. A sincronização do controle pelo celular ainda
+depende do servidor local da mesa; a publicação do site não cria, sozinha, uma
+conexão persistente entre o celular e o computador do projetor.

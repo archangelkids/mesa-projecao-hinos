@@ -1,0 +1,86 @@
+Veja primeiro NOVIDADES-V4.txt e NOVIDADES-V3.txt e tambem NOVIDADES-V2.txt para lista do culto, sequencias e teste do projetor.
+
+HINOS - MESA DE PROJECAO OFFLINE - VERSAO 4
+
+1. Extraia o ZIP inteiro para uma pasta permanente do computador.
+2. Para usar o controle pelo celular sem instalar Node.js, abra
+   INICIAR-PORTATIL.cmd. Ele já inclui o runtime necessário.
+   Para usar somente a mesa sem servidor, clique duas vezes em index.html.
+   Nao precisa instalar outro programa, de internet ou de conta.
+3. Escolha Louvai ao Senhor (principal) ou Cantor Cristao.
+4. Pesquise por numero exato ou parte do nome, somente no hinario aberto.
+5. Escolha o hino para preparar. Clique na estrofe ou coro para projetar
+   imediatamente. As setas e Anterior/Proximo tambem projetam imediatamente.
+6. Clique em Abrir janela de projecao. Permita pop-ups se necessario.
+   No Windows pressione Windows+P e escolha ESTENDER. Arraste a janela
+   de projecao para o projetor, clique nela e pressione F11.
+7. Tela preta oculta a letra e preserva o trecho. Encerrar limpa a saida.
+   Para trocar de hinario, volte ao Inicio; com projecao ativa ha confirmacao,
+   inclusive quando estiver temporariamente em tela preta.
+
+ATALHOS (fora dos campos de busca e edicao)
+Setas esquerda/direita: trocar e projetar trecho anterior/proximo.
+Enter: enviar o trecho escolhido.
+Espaco ou PageDown: avancar e projetar; PageUp: voltar e projetar.
+1 a 9: enviar a estrofe com esse numero. C: enviar o primeiro coro identificado.
+B ou ponto: tela preta / retomar. Esc: tela preta.
+F: solicitar tela cheia da projecao. Se o navegador impedir, use F11 na janela.
+No ultimo trecho, avancar permanece nele; nao troca de hino automaticamente.
+
+LETRAS E REVISAO
+Foram usados os PDFs locais louvaiaosenhor.pdf e cantorcristao.pdf encontrados
+em Downloads; os anexos com sufixos (2) e (1) nao estavam vinculados a esta
+conversa. Os arquivos efetivamente utilizados estao na pasta pdfs.
+Louvai foi extraido por pagina, coluna esquerda inteira e depois direita,
+sem misturar linhas das colunas. Cantor foi extraido em coluna unica.
+Os acentos originais sao preservados. Consulte extracao.json para contagens.
+O acervo encontrado contem 180 hinos Louvai e 578 hinos Cantor Cristao.
+O PDF Cantor salta os numeros 240, 374 e 443; eles nao foram inventados nem
+renumerados. Pesquisar esses numeros retorna nenhum resultado.
+As letras sao extraidas; as divisoes por espacos verticais e a identificacao
+de coro sao automaticas e PRECISAM DE CONFERENCIA antes do culto. Nem todo
+coro vem marcado no original. Nao afirmamos revisao manual de todo o acervo.
+O aplicativo sinaliza trechos longos e caracteres de extracao suspeitos.
+Clique em Conferir no PDF original para abrir na pagina inicial do hino.
+Clique em Corrigir letra para ajustar o titulo, as estrofes e o coro.
+Separe os trechos com linhas vazias. Exemplo:
+
+Estrofe 1
+Primeira linha da estrofe
+Segunda linha da estrofe
+
+Coro
+Primeira linha do coro
+Segunda linha do coro
+
+Marque a conferencia somente depois de comparar com o PDF. Trechos longos
+podem ser divididos em Estrofe 1 - parte A, Estrofe 1 - parte B etc.; nesse
+caso use os botoes dos trechos, pois as teclas numericas buscam Estrofe N exata.
+O texto se ajusta a tela para caber sem cortar. Se ficar pequeno, divida o trecho.
+
+SUAS CORRECOES
+Ficam salvas no armazenamento local do navegador, sem alterar o PDF nem o
+catalogo original. Mantenha o mesmo navegador e a mesma pasta. Mover a pasta,
+usar modo privado ou limpar dados pode tornar as correcoes indisponiveis.
+Use Exportar correcoes e guarde o JSON. Importe esse JSON para restaurar ou
+levar a outro computador. A importacao mescla e substitui os hinos do arquivo.
+Teste esse processo e a tela estendida antes do primeiro uso no culto.
+
+ARQUIVOS
+index.html / app.js / style.css: mesa de controle.
+projecao.html / projection.js: janela independente de projecao.
+data.js: catalogo carregado localmente, sem requisicoes de rede.
+catalogo-original.json: copia legivel do acervo extraido.
+pdfs/: fontes para conferencia. extracao.json: resumo da extracao.
+
+Esta versao funciona diretamente de arquivos locais e nao depende de CDN,
+fontes online ou service worker. Apenas compartilhe as letras e os PDFs
+quando tiver autorizacao para isso.
+
+
+
+
+
+Consulte NOVIDADES-PIX.txt para cadastrar manualmente o QR Code da Oferta.
+Consulte NOVIDADES-BIBLIA.txt para usar a Bíblia offline.
+

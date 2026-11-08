@@ -1,0 +1,64 @@
+HINOS OFFLINE - VERSAO 2
+
+ATUALIZAR SEM PERDER CORRECOES
+1. Na versao antiga, use Exportar correcoes e guarde o arquivo JSON.
+2. Extraia a nova versao inteira para uma pasta permanente.
+3. Abra ABRIR.cmd e escolha um hinario.
+4. Use Importar backup para importar o JSON antigo, se necessario.
+   Backups antigos de correcoes continuam compativeis.
+5. Na nova versao, Exportar backup salva correcoes, revisoes, listas e
+   configuracoes de sequencia. Guarde essa copia fora da pasta do aplicativo.
+
+1 - PREPARAR A LISTA DO CULTO
+Escolha um hinario, pesquise o hino e clique em Adicionar a lista do culto.
+A lista aparece abaixo da pesquisa. Use as setas para ordenar e X para retirar.
+Clique em um hino da lista para prepara-lo. Preparar proximo hino passa para
+o proximo da lista, sem enviar automaticamente ao projetor.
+Cada hinario tem sua propria lista, salva no navegador. Nao troca de hinario
+durante uma sequencia nem ao chegar ao ultimo hino.
+
+2 - CONFIGURAR O CORO NA SEQUENCIA
+Use Corrigir letra para conferir as estrofes e identificar o trecho como Coro,
+Refrao ou Estribilho. Marque Coro depois de cada estrofe para montar a sequencia.
+Exemplo: Estrofe 1 -> Coro -> Estrofe 2 -> Coro.
+Quando houver varios coros, essa opcao usa o primeiro coro identificado.
+Se nao houver coro identificado, o aplicativo avisa e conserva a ordem original.
+Com a opcao desmarcada, os trechos seguem a ordem da letra corrigida.
+Espaco/PageDown avanca uma tela e projeta. No fim, permanece no ultimo trecho.
+Os botoes numerados mostram a sequencia completa, inclusive repeticoes do coro.
+
+3 - REVISAR AS LETRAS
+Pesquisa e lista mostram Pendente ou Conferido. Em Corrigir letra, compare com
+o PDF e marque Conferi a letra e as divisoes com o PDF. Somente essa acao
+marca o hino como conferido. A versao 2 nao declara revisao integral do acervo.
+As correcoes salvas nao modificam o trecho que ja esta ao vivo ate novo envio.
+
+4 - DIVIDIR TRECHOS LONGOS
+Em Linhas por tela, escolha de 2 a 8 (padrao: 4).
+Linhas muito compridas sao quebradas em espacos, preservando as palavras.
+Uma estrofe longa aparece como Estrofe 1 - 1/3, 2/3 e 3/3.
+A letra original permanece intacta: a divisao vale apenas para as telas.
+O coro entra depois de todas as partes de cada estrofe.
+Configuracao de linhas e repeticao do coro fica salva por hino.
+Setas apenas pre-visualizam. Enter envia. Numeros 1-9 vao para a primeira
+tela da estrofe correspondente; C vai para a primeira tela do coro.
+
+5 - PROTEGER O FECHAMENTO
+Com projecao ativa (mesmo em tela preta) ou teste ativo, fechar ou recarregar
+a mesa solicita o aviso padrao do navegador. Cancelar conserva a projecao.
+O navegador escolhe o texto do aviso e pode suprimi-lo sem interacao previa.
+Ao realmente sair, a janela de projecao volta a tela preta. Isso nao impede
+desligamentos do Windows ou encerramentos forcados.
+
+6 - TESTAR O PROJETOR ANTES DO CULTO
+Conecte o projetor. Windows+P -> ESTENDER. Abra a janela de projecao,
+arraste-a para a segunda tela e pressione F11 dentro dela.
+Na mesa, clique em Exibir tela de teste. Confira se a borda inteira aparece e
+se a frase esta legivel do fundo da igreja. Ajuste a margem e a letra.
+Voltar a projecao anterior restaura o trecho e o estado anterior de tela preta.
+Projetar outro trecho sai do teste. Tela preta e Encerrar tambem saem do teste.
+O teste troca temporariamente a saida ao vivo; use antes do culto.
+Margem e tamanho da letra podem ser ajustados tambem durante a projecao.
+
+O aplicativo continua totalmente offline, sem instalacao ou conta.
+Confira LEIA-ME.txt para detalhes do acervo, fontes e instrucoes basicas.

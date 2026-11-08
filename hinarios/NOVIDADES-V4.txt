@@ -1,0 +1,35 @@
+VERSAO 4 - ESTROFES E CORO COM UMA SO SETA
+
+Intercalar coro automaticamente agora vem ativado por padrao.
+Hinos com Coro, Refrao ou Estribilho identificado seguem a sequencia:
+Estrofe 1 -> Coro -> Estrofe 2 -> Coro -> Estrofe 3 -> Coro.
+Clique no primeiro trecho para iniciar e aperte -> para avancar e projetar.
+A seta <- volta pela mesma sequencia. Espaco tambem avanca e projeta.
+Nao precisa clicar no coro, nem em Projetar ou Enter a cada troca.
+Se uma estrofe ocupar varias telas, o coro vem depois da ultima parte dela.
+
+Quando o coro nao estiver identificado na extracao do PDF:
+abra Corrigir letra, identifique esse trecho como Coro e salve.
+Essa identificacao e feita uma unica vez por hino e fica salva no navegador.
+Hinos sem coro continuam com as estrofes na ordem normal.
+Se houver mais de um coro diferente, a intercalacao usa o primeiro identificado.
+Confira a sequencia antes do culto; letras e divisoes nao foram revisadas
+integralmente. As pendencias de extracao continuam sinalizadas.
+
+Pode desmarcar Intercalar coro automaticamente para um hino especifico.
+Na primeira abertura desta versao, as configuracoes antigas passam para
+intercalacao ativada. Depois, sua escolha individual e preservada.
+Backups antigos tambem recebem esse padrao ao serem importados.
+
+Para atualizar, exporte o backup antigo, extraia o novo ZIP e abra index.html.
+Confira v4 no topo e importe o backup. Pode abrir index.html diretamente;
+ABRIR.cmd e apenas um atalho opcional. Todas as cinco listas sao preservadas.
+
+CONTROLE PELO CELULAR
+Use INICIAR-SERVIDOR.cmd no computador. Ele abre a mesa pelo servidor local e
+mostra no console o endereco “Celular: http://...”. No celular conectado ao
+mesmo Wi-Fi, abra esse endereco e informe o codigo que aparece no console.
+O celular controla anterior, proximo, tela preta, encerramento e pesquisa de
+hinos. A mesa do computador continua disponivel como controle reserva.
+O servidor nao transmite a imagem do Pix ao celular; o QR Code fica somente
+na janela de projecao. Se o Wi-Fi cair, a mesa e o projetor continuam funcionando.

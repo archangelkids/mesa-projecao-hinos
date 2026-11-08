@@ -1,0 +1,18 @@
+NOVIDADES — BÍBLIA OFFLINE
+
+Foi adicionada a Bíblia Portuguesa Mundial (BPM) para consulta e projeção
+sem internet. Ela é apresentada como texto de domínio público, com fonte
+oficial em https://ebible.org/details.php?id=porbrbsl.
+
+COMO USAR
+1. Abra a mesa normalmente e entre em um hinário.
+2. Na área “Bíblia”, escolha o livro e informe o capítulo.
+3. Informe um versículo (16) ou intervalo (1-4) e clique em “Mostrar passagem”.
+4. Confira o texto e clique em “Projetar passagem”.
+
+A passagem projetada usa a mesma janela de projeção do culto e também pode ser
+controlada pelo celular quando a mesa estiver em execução.
+
+OBSERVAÇÃO
+Esta é a primeira versão da consulta bíblica. O texto fica armazenado no
+computador, funciona offline e deve ser conferido pela equipe antes do uso.

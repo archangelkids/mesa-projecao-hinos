@@ -1,0 +1,54 @@
+Verificado em 18/10/2026 com Microsoft Edge em modo automatizado, sem rede,
+abrindo diretamente index.html como arquivo local.
+
+PASSOU: abertura offline; pesquisa restrita ao hinario; numero exato;
+pre-visualizacao independente da letra ao vivo; abertura da segunda janela;
+envio e sincronizacao; tela preta e retomada; confirmacao ao voltar ao Inicio;
+edicao e persistencia apos recarregar; atalho do coro; escolha do segundo hinario.
+Interface inicial, mesa e projecao inspecionadas visualmente.
+Extracao: 180 hinos Louvai; 578 Cantor (numeracao ate 581).
+Ausentes no PDF Cantor: 240, 374, 443.
+Conferida visualmente a ordem das colunas na primeira pagina de Louvai e
+o salto 239 -> 241 no Cantor. Nao houve revisao manual integral das letras.
+
+Limite: nao foi possivel testar com projetor fisico e segunda tela real.
+As divisoes de estrofes e identificacoes de coro continuam sujeitas a revisao.
+
+VERSAO 2 - VERIFICACAO ADICIONAL EM 18/10/2026
+Passaram no Edge offline: inclusao, reordenacao e remocao na lista;
+persistencia apos recarregar e listas separadas por hinario;
+indicadores Pendente/Conferido; repeticao do coro depois de cada estrofe;
+divisao em telas com preservacao do texto; avanco com Espaco;
+tela de teste, ajuste de margem e retorno a letra anterior;
+aviso de fechamento e cancelamento conservando a mesa;
+exportacao e importacao de backup com lista e configuracoes.
+Inspecionadas visualmente a nova mesa e a tela de teste.
+Regressao da versao 1 passou, incluindo edicao, projecao e tela preta.
+A verificacao com projetor fisico ainda deve ser feita no local.
+
+VERSAO 3 - VERIFICACAO ADICIONAL EM 18/10/2026
+Passaram no Edge offline: clique no trecho com projecao imediata;
+abertura automatica da janela; retomada ao clicar durante tela preta;
+remocao do botao Preparar proximo hino; listas Culto/Ceia/Sermao/Oferta/
+Encerramento independentes; mesmo hino em diferentes momentos;
+prevencao de duplicatas; migracao da lista antiga para Culto;
+persistencia apos recarregar; exportacao/importacao do novo backup;
+separacao das listas por hinario.
+
+VERSAO 3.1 - TROCA IMEDIATA
+Verificados no Edge offline, sem usar Enter ou Projetar: botoes Anterior e
+Proximo, setas esquerda/direita na mesa e na janela de projecao, clique direto
+nas estrofes, abertura automatica da janela e retomada apos tela preta.
+Todas essas navegacoes enviam imediatamente o trecho ao projetor.
+A identificacao v3.1 aparece no topo da mesa para conferir a versao aberta.
+
+VERSAO 4 - CORO AUTOMATICO
+Passou no Edge offline: padrao de intercalacao ativado; migracao de
+configuracao antiga; seta direita em Estrofe 1/Coro/Estrofe 2/Coro/Estrofe 3/
+Coro com envio imediato; seta esquerda na ordem inversa; desativacao manual
+por hino preservada apos recarregar. Testado sem clicar no coro a cada troca.
+
+PIX - VERIFICACAO EM 27/10/2026
+Passou no Edge offline: upload manual de imagem PNG; armazenamento local;
+exibicao apenas quando o momento ativo e Oferta; permanencia entre trechos;
+remocao ao encerrar a projecao. Nenhum arquivo e enviado para a internet.

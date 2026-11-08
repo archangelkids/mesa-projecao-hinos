@@ -1,0 +1,35 @@
+HINOS OFFLINE - VERSAO 3.1
+
+CLICAR E PROJETAR
+Clique no botao de uma estrofe, coro ou parte da sequencia: a letra vai
+imediatamente ao projetor, sem precisar clicar depois em Projetar trecho.
+Se a janela de projecao estiver fechada, o clique tenta abri-la automaticamente.
+Se o navegador bloquear, permita pop-ups ou use Abrir janela de projecao.
+Um clique no trecho tambem retoma a letra quando a saida estiver em tela preta.
+Escolher o nome do hino na pesquisa ou nas listas continua apenas preparando
+os trechos, para voce escolher por qual estrofe comecar.
+As setas do teclado e os botoes Anterior/Proximo agora projetam imediatamente;
+Enter envia e Espaco avanca e envia, como antes.
+
+MOMENTOS DA CELEBRACAO
+Agora existem cinco listas: Culto, Ceia, Sermao, Oferta e Encerramento.
+1. Escolha um hino na pesquisa.
+2. Em Adicionar hino a, escolha o momento.
+3. Clique em Adicionar ao momento.
+4. Na lateral, Ver lista de permite alternar entre os momentos.
+5. Clique em um hino da lista e depois na estrofe que deseja projetar.
+Use as setas para ordenar os hinos dentro de cada momento e X para retirar.
+O mesmo hino pode estar em varios momentos, uma vez em cada um.
+Cada hinario conserva suas proprias cinco listas.
+O botao Preparar proximo hino foi removido.
+
+ATUALIZACAO E BACKUP
+Exporte um backup na versao anterior antes de trocar a pasta.
+Extraia a versao 3 inteira, abra ABRIR.cmd e importe seu backup.
+Os backups das versoes 1 e 2 continuam aceitos.
+As listas antigas entram no momento Culto; correcoes e sequencias sao mantidas.
+O novo Exportar backup inclui os cinco momentos e suas ordens.
+
+Este arquivo substitui as instrucoes anteriores sobre clicar em trechos e
+sobre o botao Preparar proximo hino. Todo o funcionamento continua offline.
+

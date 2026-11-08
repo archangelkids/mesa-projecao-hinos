@@ -1,0 +1,24 @@
+PIX - CONFIGURACAO MANUAL
+
+O aplicativo já está preparado para o QR Code, mesmo sem o arquivo da igreja.
+
+Quando receberem a imagem do banco:
+
+1. Abra a mesa no computador.
+2. Entre em um hinário.
+3. No painel direito, localize “Pix da oferta”.
+4. Clique para escolher a imagem do QR Code (PNG, JPG ou WEBP).
+5. Clique em “Mostrar QR Code Pix” quando quiser exibi-lo.
+6. Selecione um hino da lista Oferta e clique em uma estrofe.
+
+O QR Code aparece na janela do projetor, em um cartão branco no canto inferior
+direito, junto com “Contribua via Pix”. Para ocultar, clique novamente no mesmo
+botão, que passa a se chamar “Ocultar QR Code Pix”. Assim ele não aparece em
+outros hinos por engano quando o momento selecionado continua sendo Oferta.
+
+O arquivo fica salvo localmente neste computador, sem envio para a internet.
+Use um QR Code oficial da conta da igreja e confira a leitura com dois celulares
+antes do culto. O site não cria nem valida a chave Pix: ele apenas exibe a
+imagem fornecida.
+
+Para retirar, clique em “Remover QR Code” ou desmarque a opção de exibição.
