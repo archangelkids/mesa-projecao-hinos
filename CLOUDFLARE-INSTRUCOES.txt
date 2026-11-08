@@ -1,0 +1,20 @@
+PUBLICAR NO CLOUDFLARE PAGES
+
+1. Entre em https://dash.cloudflare.com
+2. Abra Workers & Pages > Create application > Pages > Connect to Git.
+3. Escolha o repositório GitHub mesa-projecao-hinos.
+4. Configure:
+   - Production branch: main
+   - Framework preset: None
+   - Build command: deixe vazio
+   - Build output directory: outputs/hinarios
+5. Em Settings > Environment variables, crie:
+   YOUVERSION_KEY = sua chave da YouVersion
+   Faça isso em Production (e Preview se quiser testar previews).
+6. Salve e faça o primeiro deploy.
+
+A pasta functions/api/youversion.js é a função que consulta a YouVersion sem
+expor a chave no navegador. Não coloque a chave no GitHub.
+
+O endereço gratuito será parecido com:
+https://mesa-projecao-hinos.pages.dev
