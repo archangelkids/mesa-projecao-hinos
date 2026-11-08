@@ -1,0 +1,11 @@
+CONTROLE ONLINE
+
+O controle online usa um Cloudflare Worker separado chamado
+mesa-projecao-controle. Ele cria salas em tempo real para o computador e o
+celular compartilharem a mesma projeção.
+
+Depois de publicar o Worker, o endereço ficará parecido com:
+https://mesa-projecao-controle.<sua-conta>.workers.dev
+
+Esse endereço será configurado no site Pages. A próxima etapa é conectar o
+worker aos botões da mesa e gerar o QR Code de pareamento.
