@@ -10,7 +10,7 @@ function renderLive(){
   const raw=live?.text||'';
   const isDual=!state.test&&!state.blank&&live&&(/(?:^|\n)HOMENS:\s*/i.test(raw)||/DUPLO/i.test(live.label||''));
   if(isDual){
-    const parts=raw.split(/\n\s*MULHERES:\s*/i); const male=parts[0].replace(/^.*?HOMENS:\s*/is,'').trim(); const female=(parts[1]||'').trim();
+    const parts=raw.split(/\n\s*MULHERES:\s*/i); const male=(live.male||parts[0].replace(/^.*?HOMENS:\s*/is,'')).trim(); const female=(live.female||parts[1]||'').trim();
     text.hidden=true; dual.hidden=false; dual.querySelector('.male .body').textContent=male; dual.querySelector('.female .body').textContent=female;
   } else { dual.hidden=true; text.hidden=false; text.textContent=state.test?'TESTE DE PROJEÇÃO\nA igreja canta em uma só voz.\nÁ É Í Ó Ú · 1234567890\nConfira a borda e a leitura no fundo da igreja.':state.blank||!state.live?'':state.live.text; }
 }
