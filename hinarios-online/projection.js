@@ -8,7 +8,7 @@ const dual=document.getElementById('dual');
 function renderLive(){
   const live=state.live;
   const raw=live?.text||'';
-  const isDual=!state.test&&!state.blank&&live&&(/(?:^|\n)HOMENS:\s*/i.test(raw)||/DUPLO/i.test(live.label||''));
+  const isDual=!state.test&&!state.blank&&live&&(live.dual===true||/(?:^|\n)HOMENS:\s*/i.test(raw));
   if(isDual){
     const parts=raw.split(/\n\s*MULHERES:\s*/i); const male=(live.male||parts[0].replace(/^.*?HOMENS:\s*/is,'')).trim(); const female=(live.female||parts[1]||'').trim();
     text.hidden=true; dual.hidden=false; dual.querySelector('.male .body').textContent=male; dual.querySelector('.female .body').textContent=female;
