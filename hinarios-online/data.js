@@ -1580,18 +1580,18 @@ window.HYMN_BOOKS={
             "reviewed": true
           },
           {
-            "label": "Estrofe 2 — Duplo",
-            "text": "TODOS:\nQuando eu abatido for,\nLeva-me para uma rocha\n\nHOMENS:\nMais alta que eu.\n\nMULHERES:\nLá, lá, lá",
+            "label": "Coro — Vozes indicadas",
+            "text": "(T) Quando eu abatido for, (M) Lá, lá, lá\n(T) Leva-me para uma rocha\n(H) Mais alta que eu. (M) Mais alta que eu. (Bis)",
             "reviewed": true
           },
           {
-            "label": "Estrofe 3 — Todos",
+            "label": "Estrofe 2 — Todos",
             "text": "Porque Tu tens sido, o meu refúgio e\nUma torre forte, contra todo mal.",
             "reviewed": true
           },
           {
-            "label": "Estrofe 4 — Duplo",
-            "text": "TODOS:\nQuando eu abatido for,\nLeva-me para uma rocha\n\nHOMENS:\nMais alta que eu.\n\nMULHERES:\nLá, lá, lá",
+            "label": "Coro — Vozes indicadas",
+            "text": "(T) Quando eu abatido for, (M) Lá, lá, lá\n(T) Leva-me para uma rocha\n(H) Mais alta que eu. (M) Mais alta que eu. (Bis)",
             "reviewed": true
           }
         ],
@@ -2308,9 +2308,10 @@ window.HYMN_BOOKS={
             "reviewed": true
           },
           {
-            "label": "Estrofe 2 — Duplo / Voz indicada",
-            "text": "HOMENS:\nHomens começam com as Mulheres ecoando\nEm Jesus, Amigo temos, mais chegado que um irmão.\nEle manda que levemos, tudo a Deus em oração.",
-            "reviewed": true
+            "label": "Estrofe 2 — Todos",
+            "text": "Em Jesus, Amigo temos, mais chegado que um irmão.\nEle manda que levemos, tudo a Deus em oração.",
+            "reviewed": true,
+            "voiceNote": "Homens começam; mulheres ecoam."
           }
         ],
         "reviewed": true
