@@ -1110,7 +1110,7 @@ window.HYMN_BOOKS={
           },
           {
             "label": "Coro — Duplo",
-            "text": "HOMENS:\nSim há um Deus,\nQue vivo é,\nnele vivemos,\nE temos fé!\n\nMULHERES:\nSim, há um Deus\nQue vivo é,\nnele vivemos,\nE temos fé!\n\nHOMENS:\nDo pó, meu Deus\nHomem criou;\nEle é meu Deus;\nO grande “Eu Sou”.\n\nMULHERES:\nDo pó, meu Deus\nHomem criou;\nEle é meu Deus;\nO grande “Eu Sou”.",
+            "text": "HOMENS:\nSim há um Deus,\nQue vivo é,\nnele vivemos,\nE temos fé!\nDo pó, meu Deus\nHomem criou;\nEle é meu Deus;\nO grande “Eu Sou”.\n\nMULHERES:\nSim, há um Deus\nQue vivo é,\nnele vivemos,\nE temos fé!\nDo pó, meu Deus\nHomem criou;\nEle é meu Deus;\nO grande “Eu Sou”.",
             "reviewed": true
           },
           {
