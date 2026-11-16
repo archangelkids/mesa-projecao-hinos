@@ -2393,20 +2393,40 @@ window.HYMN_BOOKS={
         "number": 111,
         "title": "CANTE ALELUIA AO SENHOR",
         "page": 25,
-        "flags": [
-          "Divisões e coro inferidos: conferir com o PDF"
-        ],
+        "flags": [],
         "sections": [
           {
-            "label": "Estrofe 1",
-            "text": "1.\n(H) Cante Aleluia ao Senhor. (M) Cante Aleluia ao Senhor.\n(H) Cante Aleluia ao Senhor. (M) Cante Aleluia ao Senhor.\n(H) Cante Aleluia, cante aleluia. (M) A-le-lu-ia\n(H) Cante Aleluia ao Senhor. (M) Cante Aleluia ao Senhor"
+            "label": "1ª parte — Duplo",
+            "text": "HOMENS:\nCante Aleluia ao Senhor.\nCante Aleluia ao Senhor.\nCante Aleluia, cante aleluia.\nCante Aleluia ao Senhor.\n\nMULHERES:\nCante Aleluia ao Senhor.\nCante Aleluia ao Senhor.\nA-le-lu-ia\nCante Aleluia ao Senhor.",
+            "reviewed": true
           },
           {
-            "label": "Estrofe 2",
-            "text": "2. Cristo morreu na crua por nós.\n3. Cristo Jesus ressuscitou.\n4. Vive na igreja entre nós.\n5 . Cristo em breve voltará\n6 . Cante aleluia ao Senhor."
+            "label": "2ª parte — Duplo",
+            "text": "HOMENS:\nCristo morreu na cruz por nós.\nCristo morreu na cruz por nós.\nCristo morreu, Cristo morreu.\nCristo morreu na cruz por nós.\n\nMULHERES:\nCristo morreu na cruz por nós.\nCristo morreu na cruz por nós.\nA-le-lu-ia\nCristo morreu na cruz por nós.",
+            "reviewed": true
+          },
+          {
+            "label": "3ª parte — Duplo",
+            "text": "HOMENS:\nCristo Jesus ressuscitou.\nCristo Jesus ressuscitou.\nCristo Jesus, Cristo Jesus.\nCristo Jesus ressuscitou.\n\nMULHERES:\nCristo Jesus ressuscitou.\nCristo Jesus ressuscitou.\nRessuscitou.\nCristo Jesus ressuscitou.",
+            "reviewed": true
+          },
+          {
+            "label": "4ª parte — Duplo",
+            "text": "HOMENS:\nVive na igreja entre nós.\nVive na igreja entre nós.\nVive na igreja, vive na igreja.\nVive na igreja entre nós.\n\nMULHERES:\nVive na igreja entre nós.\nVive na igreja entre nós.\nA-le-lu-ia\nVive na igreja entre nós.",
+            "reviewed": true
+          },
+          {
+            "label": "5ª parte — Duplo",
+            "text": "HOMENS:\nCristo em breve voltará.\nCristo em breve voltará.\nCristo em breve, Cristo em breve.\nCristo em breve voltará.\n\nMULHERES:\nCristo em breve voltará.\nCristo em breve voltará.\nA-le-lu-ia\nCristo em breve voltará.",
+            "reviewed": true
+          },
+          {
+            "label": "6ª parte — Duplo",
+            "text": "HOMENS:\nCante Aleluia ao Senhor.\nCante Aleluia ao Senhor.\nCante Aleluia, cante aleluia.\nCante Aleluia ao Senhor.\n\nMULHERES:\nCante Aleluia ao Senhor.\nCante Aleluia ao Senhor.\nA-le-lu-ia\nCante Aleluia ao Senhor.",
+            "reviewed": true
           }
         ],
-        "reviewed": false
+        "reviewed": true
       },
       {
         "number": 112,
