@@ -1248,13 +1248,13 @@ window.HYMN_BOOKS={
         "flags": [],
         "sections": [
           {
-            "label": "Coro — Duplo",
-            "text": "TODOS:\nTomado pela mão de Jesus, eu vou! (3 vezes)\n\nHOMENS:\nPor onde for\n\nMULHERES:\nPor onde for!\n\nTODOS:\nTomado pela mão de Jesus, eu vou! (3 vezes)\nEm Seu amor!",
+            "label": "Coro",
+            "text": "TODOS:\nTomado pela mão de Jesus, eu vou! (3 vezes)\n\n (h)\nPor onde for\n\n(M)\nPor onde for!\n\nTomado pela mão de Jesus, eu vou! (3 vezes)\nEm Seu amor!",
             "reviewed": true
           },
           {
-            "label": "Estrofe 1 — Duplo",
-            "text": "HOMENS:\ne nEle vai!\n\nMULHERES:\ne nEle vai!\n\nTODOS:\nSe Jesus te disse:\n“Amigo, deixa tudo e vem comigo”,\nToma a Cristo com mãos limpas,\n“Eu te levo”, disse o Amigo,\n“A um lugar, a um reino comigo,\nOnde tudo é mais alegre e mais feliz!”",
+            "label": "Estrofe 2 ",
+            "text": "TODOS:\nSe Jesus te disse:\n“Amigo, deixa tudo e vem comigo”,\nToma a Cristo com mãos limpas,\nHOMENS:\ne nele vai!\n\nMULHERES:\ne nele vai!\n\n\n“Eu te levo”, disse o Amigo,\n“A um lugar, a um reino comigo,\nOnde tudo é mais alegre e mais feliz!”",
             "reviewed": true
           }
         ],
