@@ -2298,9 +2298,10 @@ window.HYMN_BOOKS={
         "flags": [],
         "sections": [
           {
-            "label": "Estrofe 1 — Duplo / Voz indicada",
-            "text": "HOMENS:\nHomens começam com as Mulheres ecoando\nJesus Cristo, meu Amigo, Ele me ama, eu O amo.\nRessurgido, Ele volta. Venha Cristo, Aleluia!",
-            "reviewed": true
+            "label": "Estrofe 1 — Todos",
+            "text": "Jesus Cristo, meu Amigo, Ele me ama, eu O amo.\nRessurgido, Ele volta. Venha Cristo, Aleluia!",
+            "reviewed": true,
+            "voiceNote": "Homens começam; mulheres ecoam."
           },
           {
             "label": "Coro — Duplo",
