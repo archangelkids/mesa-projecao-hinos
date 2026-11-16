@@ -1109,10 +1109,10 @@ window.HYMN_BOOKS={
             "reviewed": true
           },
           {
-             "label": "Coro — Duplo",
+            "label": "Coro — Duplo",
             "text": "HOMENS:\nSim há um Deus,\nQue vivo é,\nnele vivemos,\nE temos fé!\n\nMULHERES:\nSim, há um Deus\nQue vivo é,\nnele vivemos,\nE temos fé!\n\nHOMENS:\nDo pó, meu Deus\nHomem criou;\nEle é meu Deus;\nO grande “Eu Sou”.\n\nMULHERES:\nDo pó, meu Deus\nHomem criou;\nEle é meu Deus;\nO grande “Eu Sou”.",
             "reviewed": true
-},
+          },
           {
             "label": "Estrofe 3 — Todos",
             "text": "Aquele Deus que nos amou, a vida de Seu Filho deu.\nA graça, então nos perdoou. Teremos vida lá no céu!",
