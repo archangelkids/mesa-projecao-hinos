@@ -1575,20 +1575,24 @@ window.HYMN_BOOKS={
         "flags": [],
         "sections": [
           {
-            "label": "Estrofe 1",
-            "text": "Ouve, ó Deus, atende ao meu clamor.\nNos confins da terra, eu clamarei a Ti."
+            "label": "Estrofe 1 — Todos",
+            "text": "Ouve, ó Deus, atende ao meu clamor.\nNos confins da terra, eu clamarei a Ti.",
+            "reviewed": true
           },
           {
-            "label": "Estrofe 2",
-            "text": "(T) Quando eu abatido for, (M) Lá, lá, lá\n(T) Leva-me para uma rocha\n(H) Mais alta que eu. (M) Mais alta que eu. (Bis)"
+            "label": "Estrofe 2 — Duplo",
+            "text": "TODOS:\nQuando eu abatido for,\nLeva-me para uma rocha\n\nHOMENS:\nMais alta que eu.\n\nMULHERES:\nLá, lá, lá",
+            "reviewed": true
           },
           {
-            "label": "Estrofe 3",
-            "text": "Porque Tu tens sido, o meu refúgio e\nUma torre forte, contra todo mal."
+            "label": "Estrofe 3 — Todos",
+            "text": "Porque Tu tens sido, o meu refúgio e\nUma torre forte, contra todo mal.",
+            "reviewed": true
           },
           {
-            "label": "Estrofe 4",
-            "text": "(T) Quando eu abatido for, (M) Lá, lá, lá\n(T) Leva-me para uma rocha\n(H) Mais alta que eu. (M) Mais alta que eu. (Bis)"
+            "label": "Estrofe 4 — Duplo",
+            "text": "TODOS:\nQuando eu abatido for,\nLeva-me para uma rocha\n\nHOMENS:\nMais alta que eu.\n\nMULHERES:\nLá, lá, lá",
+            "reviewed": true
           }
         ],
         "reviewed": true
@@ -1625,7 +1629,7 @@ window.HYMN_BOOKS={
           },
           {
             "label": "Estrofe 2 — Duplo",
-            "text": "(H) Quando o Senhor voltar outra vez.\n(T) Que o povo cante, amém, amém.} (Bis)",
+            "text": "HOMENS:\nQuando o Senhor voltar outra vez.\n\nTODOS:\nQue o povo cante, amém, amém.} (Bis)",
             "reviewed": true
           },
           {
@@ -1930,16 +1934,19 @@ window.HYMN_BOOKS={
         "flags": [],
         "sections": [
           {
-            "label": "Estrofe 1",
-            "text": "Santo Espírito enche a minha vida,\nPois com Cristo eu quero brilhar.\nSanto Espírito enche a minha vida.\nUsa-me as almas a salvar."
+            "label": "Estrofe 1 — Todos",
+            "text": "Santo Espírito enche a minha vida,\nPois com Cristo eu quero brilhar.\nSanto Espírito enche a minha vida.\nUsa-me as almas a salvar.",
+            "reviewed": true
           },
           {
-            "label": "Coro",
-            "text": "Coro: (H) Aleluia, Aleluia (M) A-- , A--\n(T) Aleluia, dou a Cristo Rei.\n(H) Aleluia, Aleluia (M) A-- , A --\n(T) Aleluia dou ao Rei."
+            "label": "Coro — Duplo",
+            "text": "HOMENS:\nAleluia, Aleluia\nAleluia, Aleluia\n\nMULHERES:\nA-- , A--\nA-- , A --\n\nTODOS:\nAleluia, dou a Cristo Rei.\nAleluia dou ao Rei.",
+            "reviewed": true
           },
           {
-            "label": "Estrofe 2",
-            "text": "Faz-me, Deus, uma luz fulgurante,\nQue jamais venha escurecer,\nFaz, ó Deus, que meu facho brilhante,\nBrilhe sempre até o amanhecer."
+            "label": "Estrofe 2 — Todos",
+            "text": "Faz-me, Deus, uma luz fulgurante,\nQue jamais venha escurecer,\nFaz, ó Deus, que meu facho brilhante,\nBrilhe sempre até o amanhecer.",
+            "reviewed": true
           }
         ],
         "reviewed": true
@@ -2031,22 +2038,22 @@ window.HYMN_BOOKS={
         "sections": [
           {
             "label": "Estrofe 1 — Duplo",
-            "text": "(H) Meu coração transborda de amor,\n(M) Transborda de amor.\n(H) Porque meu Deus (M) Porque meu Deus,\n(H) É um Deus de amor. (M) É um Deus de amor.",
+            "text": "HOMENS:\nMeu coração transborda de amor,\nPorque meu Deus\nÉ um Deus de amor.\n\nMULHERES:\nTransborda de amor.\nPorque meu Deus\nÉ um Deus de amor.",
             "reviewed": true
           },
           {
             "label": "Estrofe 2 — Duplo",
-            "text": "(H) Minh´alma está repleta de paz, (M) Repleta de paz.\n(H) Porque Jesus (M) Porque Jesus,\n(H) É a minha paz (M) É a minha paz.",
+            "text": "HOMENS:\nMinh´alma está repleta de paz,\nPorque Jesus\nÉ a minha paz.\n\nMULHERES:\nRepleta de paz.\nPorque Jesus\nÉ a minha paz.",
             "reviewed": true
           },
           {
             "label": "Estrofe 3 — Duplo",
-            "text": "(H) Eu digo aleluia, aleluia, aleluia, aleluia, aleluia,\n(M) Eu digo alelu-u-ia, alelu-u-ia, aleluia,\n(H) E eu digo porque. (M) E eu digo porque.",
+            "text": "HOMENS:\nEu digo aleluia, aleluia, aleluia, aleluia, aleluia,\nE eu digo porque.\n\nMULHERES:\nEu digo alelu-u-ia, alelu-u-ia, aleluia,\nE eu digo porque.",
             "reviewed": true
           },
           {
             "label": "Estrofe 4 — Duplo",
-            "text": "(H) Eu digo aleluia, aleluia, aleluia, aleluia, aleluia,\n(M) Eu digo alelu-u-ia, alelu-u-ia, aleluia,\n(H) Aleluia amém. (T) Aleluia amém.",
+            "text": "HOMENS:\nEu digo aleluia, aleluia, aleluia, aleluia, aleluia,\nAleluia amém.\n\nMULHERES:\nEu digo alelu-u-ia, alelu-u-ia, aleluia,\n\nTODOS:\nAleluia amém.",
             "reviewed": true
           }
         ],
@@ -2292,17 +2299,17 @@ window.HYMN_BOOKS={
         "sections": [
           {
             "label": "Estrofe 1 — Duplo / Voz indicada",
-            "text": "(Homens começam com as Mulheres ecoando)\nJesus Cristo, meu Amigo, Ele me ama, eu O amo.\nRessurgido, Ele volta. Venha Cristo, Aleluia!",
+            "text": "HOMENS:\nHomens começam com as Mulheres ecoando\nJesus Cristo, meu Amigo, Ele me ama, eu O amo.\nRessurgido, Ele volta. Venha Cristo, Aleluia!",
             "reviewed": true
           },
           {
-            "label": "Coro — Duplo / Voz indicada",
-            "text": "(H) Homens cantam “Aleluia” 6 vezes\n(M) Ele viveu para morrer na cruz. Resgatar a humanidade.\n(M) Vencendo a morte, Ele ressuscitou! Agora reina para sempre!",
+            "label": "Coro — Duplo",
+            "text": "HOMENS:\nHomens cantam “Aleluia” 6 vezes\n\nMULHERES:\nEle viveu para morrer na cruz. Resgatar a humanidade.\nVencendo a morte, Ele ressuscitou! Agora reina para sempre!",
             "reviewed": true
           },
           {
             "label": "Estrofe 2 — Duplo / Voz indicada",
-            "text": "(Homens começam com as Mulheres ecoando)\nEm Jesus, Amigo temos, mais chegado que um irmão.\nEle manda que levemos, tudo a Deus em oração.",
+            "text": "HOMENS:\nHomens começam com as Mulheres ecoando\nEm Jesus, Amigo temos, mais chegado que um irmão.\nEle manda que levemos, tudo a Deus em oração.",
             "reviewed": true
           }
         ],
@@ -2585,7 +2592,7 @@ window.HYMN_BOOKS={
         "sections": [
           {
             "label": "Coro — Duplo",
-            "text": "(H) Abre meus olhos, eu quero ver Cristo.\n(H) Eu quero segui-Lo, dizer que O amo.\n(M) Abre os ouvidos, eu quero ouvir Cristo.\n(M)Nas folhas do Livro, eu quero buscá-lo.",
+            "text": "HOMENS:\nAbre meus olhos, eu quero ver Cristo.\nEu quero segui-Lo, dizer que O amo.\n\nMULHERES:\nAbre os ouvidos, eu quero ouvir Cristo.\nNas folhas do Livro, eu quero buscá-lo.",
             "reviewed": true
           },
           {
@@ -3968,7 +3975,7 @@ window.HYMN_BOOKS={
         "sections": [
           {
             "label": "Estrofe 1 — Duplo",
-            "text": "(H) Quero ver (M) Quero ver\n(H) Cristo lá, (M) Cristo lá,\nQuero ver Cristo lá, glória a Deus!\nLá no Céu eu vou ficar,\nMeu Jesus vou avistar.\nQuero ver Cristo lá, glória a Deus!\n{Quero ver (nome de alguém), Todos, Cristo lá.",
+            "text": "HOMENS:\nQuero ver\nCristo lá\n\nMULHERES:\nQuero ver\nCristo lá\n\nTODOS:\nQuero ver Cristo lá, glória a Deus!\nLá no Céu eu vou ficar,\nMeu Jesus vou avistar.\nQuero ver Cristo lá, glória a Deus!\n{Quero ver (nome de alguém), Todos, Cristo lá.}",
             "reviewed": true
           }
         ],
