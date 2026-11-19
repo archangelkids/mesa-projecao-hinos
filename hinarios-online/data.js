@@ -1248,13 +1248,18 @@ window.HYMN_BOOKS={
         "flags": [],
         "sections": [
           {
-            "label": "Coro",
+            "label": "Coro 1",
             "text": "Tomado pela mão de Jesus, eu vou! (3 vezes)\nPor onde for!\nTomado pela mão de Jesus, eu vou! (3 vezes)\nEm Seu amor!",
             "reviewed": true
           },
           {
             "label": "Estrofe 1",
             "text": "Se Jesus te disse:\n“Amigo, deixa tudo e vem comigo”,\nToma a Cristo com mãos limpas,\nE nEle vai!\n“Eu te levo”, disse o Amigo,\n“A um lugar, a um reino comigo,\nOnde tudo é mais alegre e mais feliz!”",
+            "reviewed": true
+          },
+          {
+            "label": "Coro 2",
+            "text": "Tomado pela mão de Jesus, eu vou! (3 vezes)\nPor onde for!\nTomado pela mão de Jesus, eu vou! (3 vezes)\nEm Seu amor!",
             "reviewed": true
           }
         ],
@@ -1940,7 +1945,12 @@ window.HYMN_BOOKS={
           },
           {
             "label": "Coro — Duplo",
-            "text": "HOMENS:\nAleluia, Aleluia\nAleluia, Aleluia\n\nMULHERES:\nA-- , A--\nA-- , A --\n\nTODOS:\nAleluia, dou a Cristo Rei.\nAleluia dou ao Rei.",
+            "text": "HOMENS:\nAleluia, Aleluia\nAleluia, Aleluia\n\nMULHERES:\nA-- , A--\nA-- , A --",
+            "reviewed": true
+          },
+          {
+            "label": "Coro — Todos",
+            "text": "Aleluia, dou a Cristo Rei.\nAleluia dou ao Rei.",
             "reviewed": true
           },
           {
@@ -2613,7 +2623,7 @@ window.HYMN_BOOKS={
         "flags": [],
         "sections": [
           {
-            "label": "Coro — Duplo",
+            "label": "Coro 1 — Duplo",
             "text": "HOMENS:\nAbre meus olhos, eu quero ver Cristo.\nEu quero segui-Lo, dizer que O amo.\n\nMULHERES:\nAbre os ouvidos, eu quero ouvir Cristo.\nNas folhas do Livro, eu quero buscá-lo.",
             "reviewed": true
           },
@@ -2623,8 +2633,18 @@ window.HYMN_BOOKS={
             "reviewed": true
           },
           {
+            "label": "Coro 2 — Duplo",
+            "text": "HOMENS:\nAbre meus olhos, eu quero ver Cristo.\nEu quero segui-Lo, dizer que O amo.\n\nMULHERES:\nAbre os ouvidos, eu quero ouvir Cristo.\nNas folhas do Livro, eu quero buscá-lo.",
+            "reviewed": true
+          },
+          {
             "label": "Estrofe 2 — Todos",
             "text": "Vou cantar, vou cantar, das belezas de Ele fez, vou cantar.\nDemonstrar meu grande amor através do meu viver,\nE a Ele sempre dar meu louvor.",
+            "reviewed": true
+          },
+          {
+            "label": "Coro 3 — Duplo",
+            "text": "HOMENS:\nAbre meus olhos, eu quero ver Cristo.\nEu quero segui-Lo, dizer que O amo.\n\nMULHERES:\nAbre os ouvidos, eu quero ouvir Cristo.\nNas folhas do Livro, eu quero buscá-lo.",
             "reviewed": true
           }
         ],
