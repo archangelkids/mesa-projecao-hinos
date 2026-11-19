@@ -1939,22 +1939,17 @@ window.HYMN_BOOKS={
         "flags": [],
         "sections": [
           {
-            "label": "Estrofe 1 — Todos",
+            "label": "Estrofe 1",
             "text": "Santo Espírito enche a minha vida,\nPois com Cristo eu quero brilhar.\nSanto Espírito enche a minha vida.\nUsa-me as almas a salvar.",
             "reviewed": true
           },
           {
-            "label": "Coro — Duplo",
-            "text": "HOMENS:\nAleluia, Aleluia\nAleluia, Aleluia\n\nMULHERES:\nA-- , A--\nA-- , A --",
+            "label": "Coro",
+            "text": "Coro: (H) Aleluia, Aleluia (M) A-- , A--\n(T) Aleluia, dou a Cristo Rei.\n(H) Aleluia, Aleluia (M) A-- , A --\n(T) Aleluia dou ao Rei.",
             "reviewed": true
           },
           {
-            "label": "Coro — Todos",
-            "text": "Aleluia, dou a Cristo Rei.\nAleluia dou ao Rei.",
-            "reviewed": true
-          },
-          {
-            "label": "Estrofe 2 — Todos",
+            "label": "Estrofe 2",
             "text": "Faz-me, Deus, uma luz fulgurante,\nQue jamais venha escurecer,\nFaz, ó Deus, que meu facho brilhante,\nBrilhe sempre até o amanhecer.",
             "reviewed": true
           }
@@ -4098,6 +4093,30 @@ window.HYMN_BOOKS={
           {
             "label": "3ª estrofe — Todos",
             "text": "A vinda eu anseio do meu Salvador;\nEm breve virá me levar\nAo céu, onde vou para sempre morar,\nCom remidos na luz do Senhor!",
+            "reviewed": true
+          }
+        ],
+        "reviewed": true
+      },
+      {
+        "number": 181,
+        "title": "A IGREJA É FRANCA",
+        "page": null,
+        "flags": [],
+        "sections": [
+          {
+            "label": "Coro",
+            "text": "Franca, a igreja é franca\nNa palavra, na conduta e no amor! (No amor! — M)\nFranca, a igreja é franca\nNa pureza; sim, na fé e no Senhor! (No Senhor! — H)",
+            "reviewed": true
+          },
+          {
+            "label": "Final",
+            "text": "Na pureza; sim, na fé e no Senhor! (No Senhor! — H)",
+            "reviewed": true
+          },
+          {
+            "label": "Estrofe 1",
+            "text": "Vamos nós trabalhar e com Cristo andar;\nCom firmeza somos pois, uma só grei! (Uma grei! — M)\nVamos testemunhar, do Evangelho falar;\nCom certeza, os fiéis vão ver o Rei! (Ver o Rei! — H) (Bis)",
             "reviewed": true
           }
         ],
